@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.Netscaler"
 VERSION = "1.0"
 AUTHOR = "Gregory Baker"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Netscaler']
 INSTALL_REQUIRES = []
